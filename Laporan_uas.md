@@ -147,6 +147,8 @@ Evaluasi model adalah tahapan penting untuk mengukur seberapa baik model yang te
 
 **Decision Tree Classifier** — Confusion Matrix:
 
+![Confusion Matrix Decision Tree](images/confusion_matrix_dt.png)
+
 | | Prediksi Negatif | Prediksi Positif |
 |---|---|---|
 | **Aktual Negatif** | 87 | 23 |
@@ -161,6 +163,8 @@ Evaluasi model adalah tahapan penting untuk mengukur seberapa baik model yang te
 | weighted avg | 0.62 | 0.64 | 0.63 | 154 |
 
 **Random Forest Classifier** — Confusion Matrix:
+
+![Confusion Matrix Random Forest](images/confusion_matrix_rf.png)
 
 | | Prediksi Negatif | Prediksi Positif |
 |---|---|---|
@@ -202,6 +206,7 @@ Dari hasil evaluasi, dapat diamati bahwa:
 **Catatan kritis:** Meskipun Random Forest lebih unggul secara keseluruhan, Recall kelas diabetes pada kedua model masih tergolong rendah (di bawah 0.35). Ini berarti sebagian besar pasien diabetes pada data uji belum berhasil terdeteksi oleh kedua model — sebuah keterbatasan penting yang perlu ditindaklanjuti (lihat Bab 8, Rekomendasi Perbaikan), mengingat *False Negative* pada kasus medis memiliki konsekuensi yang serius.
 
 ---
+
 
 ## 8. Kesimpulan dan Rekomendasi
 
