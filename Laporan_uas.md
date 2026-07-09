@@ -124,6 +124,8 @@ Kedua model dilatih menggunakan set pelatihan yang telah distandardisasi (`X_tra
 **Visualisasi Model:**
 Pohon keputusan dari model Decision Tree divisualisasikan (lihat lampiran) untuk menunjukkan jalur pengambilan keputusan, dimulai dari fitur **Glucose** sebagai *root node*. Berbeda dengan Decision Tree, struktur internal Random Forest (100 pohon) tidak divisualisasikan secara individual karena kompleksitasnya, namun performa gabungannya dievaluasi secara agregat pada Bab 7.
 
+![Visualisasi Pohon Keputusan Decision Tree](images/decision_tree_plot.png)
+
 ### 6.3 Perbandingan Karakteristik Kedua Model
 
 | Aspek | Decision Tree | Random Forest |
@@ -147,7 +149,7 @@ Evaluasi model adalah tahapan penting untuk mengukur seberapa baik model yang te
 
 **Decision Tree Classifier** — Confusion Matrix:
 
-![Confusion Matrix Decision Tree](images/decision_tree_plot.png)
+![Confusion Matrix Decision Tree](images/confusion_matrix_dt.png)
 
 | | Prediksi Negatif | Prediksi Positif |
 |---|---|---|
@@ -206,7 +208,6 @@ Dari hasil evaluasi, dapat diamati bahwa:
 **Catatan kritis:** Meskipun Random Forest lebih unggul secara keseluruhan, Recall kelas diabetes pada kedua model masih tergolong rendah (di bawah 0.35). Ini berarti sebagian besar pasien diabetes pada data uji belum berhasil terdeteksi oleh kedua model — sebuah keterbatasan penting yang perlu ditindaklanjuti (lihat Bab 8, Rekomendasi Perbaikan), mengingat *False Negative* pada kasus medis memiliki konsekuensi yang serius.
 
 ---
-
 
 ## 8. Kesimpulan dan Rekomendasi
 
