@@ -1,8 +1,6 @@
 # Laporan Analisis Prediksi Diabetes Menggunakan Machine Learning
 
 **Mata Kuliah:** Kecerdasan Buatan
-**Nama:** Ramdhani Sulaeman Burhanudin
-**NIM:** 2306161
 
 ---
 
