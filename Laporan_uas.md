@@ -147,7 +147,7 @@ Evaluasi model adalah tahapan penting untuk mengukur seberapa baik model yang te
 
 **Decision Tree Classifier** — Confusion Matrix:
 
-![Confusion Matrix Decision Tree](images/confusion_matrix_dt.png)
+![Confusion Matrix Decision Tree](images/decision_tree_plot.png)
 
 | | Prediksi Negatif | Prediksi Positif |
 |---|---|---|
