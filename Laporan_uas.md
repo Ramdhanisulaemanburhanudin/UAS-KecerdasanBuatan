@@ -251,6 +251,6 @@ Breiman, L. (2001). Random Forests. *Machine Learning*, 45(1), 5–32. https://d
 
 ## 10. Lampiran 
 
-- Dataset mentah: `diabetes (1).csv` (768 baris, 9 kolom)
+- Dataset mentah: `data/diabetes (1).csv` (768 baris, 9 kolom)
 - Notebook analisis: `uas_model.ipynb`
 - Grafik tambahan: Visualisasi pohon keputusan (Decision Tree), Confusion Matrix Decision Tree, Confusion Matrix Random Forest
