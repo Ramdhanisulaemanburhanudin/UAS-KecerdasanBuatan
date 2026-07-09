@@ -4,9 +4,9 @@
 
 **Prediksi Penyakit Diabetes Menggunakan Algoritma Decision Tree dan Random Forest**
 
-**Nama Kelompok:**
-- [Nama Anggota 1]
-- [Nama Anggota 2] *(opsional, maksimal 2 orang)*
+**Ramdhani Sulaeman Burhanudin**
+**2306161**
+
 
 **Domain Proyek (Latar Belakang):**
 Diabetes melitus merupakan salah satu penyakit kronis dengan prevalensi yang terus meningkat di seluruh dunia. Menurut World Health Organization (WHO), diabetes menjadi salah satu penyebab utama kematian akibat penyakit tidak menular, dan jumlah penderitanya diperkirakan mencapai ratusan juta jiwa secara global. Keterlambatan diagnosis diabetes dapat menyebabkan komplikasi serius seperti gangguan jantung, ginjal, dan saraf. Oleh karena itu, dibutuhkan sebuah sistem prediksi berbasis data yang dapat membantu mendeteksi risiko diabetes sejak dini berdasarkan indikator kesehatan seseorang, sehingga penanganan medis dapat dilakukan lebih cepat.
@@ -249,7 +249,7 @@ Breiman, L. (2001). Random Forests. *Machine Learning*, 45(1), 5–32. https://d
 
 ---
 
-## 10. Lampiran (Opsional)
+## 10. Lampiran 
 
 - Dataset mentah: `diabetes (1).csv` (768 baris, 9 kolom)
 - Notebook analisis: `uas_model.ipynb`
