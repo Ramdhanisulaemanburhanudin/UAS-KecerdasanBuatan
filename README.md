@@ -61,7 +61,3 @@ Menyusun ringkasan hasil, kelebihan/keterbatasan tiap model, dan rekomendasi pen
 
 Referensi ilmiah lengkap (format APA) tercantum di Bab 9 pada `Laporan_uas.md`.
 
-## Kontributor
-
-- [Nama Anggota 1]
-- [Nama Anggota 2] *(opsional)*
