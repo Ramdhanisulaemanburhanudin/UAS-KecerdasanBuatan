@@ -27,6 +27,7 @@
 | Nama | NIM |
 |---|---|
 | Ramdhani Sulaeman Burhanudin | 2306161 |
+| Chandra Setia Dimukti | 2306159 |
 
 ### Domain Proyek (Latar Belakang)
 
