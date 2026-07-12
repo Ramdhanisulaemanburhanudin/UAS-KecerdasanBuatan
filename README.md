@@ -76,3 +76,5 @@ Referensi ilmiah lengkap (format APA, minimal 5 sumber) tercantum di Bab 9 pada 
 | Nama | NIM |
 |---|---|
 | Ramdhani Sulaeman Burhanudin | 2306161 |
+| Chandra Setia Dimukti | 2306159 |
+
